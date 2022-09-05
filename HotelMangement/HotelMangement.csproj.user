@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="主界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="入住信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="删除顾客类型.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="插入顾客类型.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="更改顾客类型.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查询入住信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查询退房信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查询顾客类型.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="退房信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="删除顾客.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="插入员工.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="插入顾客.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="更改员工.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="更改房间.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="删除员工.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="删除房间.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="插入房间.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="更改顾客.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查询员工.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查询房间.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查询顾客.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
